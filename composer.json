@@ -1,4 +1,5 @@
 {
+    "abandoned": "monthly-basis/user",
     "name": "leo-galleguillos/user",
     "license": "MIT",
     "require": {
